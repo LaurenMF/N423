@@ -1,0 +1,32 @@
+body {
+  width: 450px;
+  background-color: whitesmoke; }
+
+.search {
+  text-align: right; }
+
+nav {
+  text-align: center;
+  margin-top: 20px;
+  background-color: rgba(37, 37, 160, 0.788); }
+  nav a {
+    margin-right: 10px;
+    color: whitesmoke; }
+
+.weatherbox {
+  float: left;
+  height: 200px;
+  width: 100px;
+  background-color: lightblue;
+  text-align: center;
+  border: 5px solid black;
+  margin-left: 20px;
+  margin-top: 20px;
+  padding-top: 20px; }
+
+.display {
+  width: 400px; }
+
+button {
+  background-color: green;
+  color: whitesmoke; }

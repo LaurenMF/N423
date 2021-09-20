@@ -1,0 +1,44 @@
+$space: 20px;
+$text: whitesmoke;
+
+
+body {
+    width: 450px;
+    background-color: $text;
+}
+
+.search {
+    text-align: right;
+}
+
+nav {
+    text-align: center;
+    margin-top: $space;
+    background-color: rgba(37, 37, 160, 0.788);
+    
+    a {
+        margin-right: 10px;
+        color: $text;
+    }
+}
+
+.weatherbox {
+    float: left;
+    height: 200px;
+    width: 100px;
+    background-color: lightblue;
+    text-align: center;
+    border: 5px solid black;
+    margin-left: $space;
+    margin-top: $space;
+    padding-top: $space;
+}
+
+.display {
+    width: 400px;
+}
+
+button {
+    background-color: green;
+    color: $text;
+}
