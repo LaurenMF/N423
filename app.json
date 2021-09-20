@@ -1,0 +1,4 @@
+{"locations": [
+    {"city":"Indianapolis", "zip":"46202", "current":"Rainy", "day1":"Rainy", "day2":"Sunny", "day3":"Partly Cloudy", "day4":"Partly Cloudy", "day5":"Rainy", "day6":"Sunny", "day7":"Thunderstorm"},
+    {"city":"Fishers", "zip":"46037", "current":"Sunny", "day1":"Sunny", "day2":"Sunny", "day3":"Cloudy", "day4":"Rainy", "day5":"Rainy", "day6":"Partly Cloudy", "day7":"Thunderstorm"}    
+]}
